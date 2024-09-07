@@ -16,28 +16,6 @@ This process called **features engineering** is based on **analytical concepts a
 
 ### Article
 In this [Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc), will try to understand the impact of 
-several features on the accuracy of a model using the M5 Forecasting competition dataset.
+several features on the accuracy of a model using the M5 Forecasting competition dataset and this project is inspired by this article.
 
-### Experiment
-Based on business insights or common sense, we will add additional features, built with existing ones, to help our model to capture all the key factors 
-impacting your customer demand.
-
-<p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*PBsf-z8n_DrMaCEtaKkhXQ.png">
-</p>
-
-### Data set
-This analysis will be based on the M5 Forecasting dataset of Walmart stores sales records ([Link](
-https://www.kaggle.com/c/m5-forecasting-accuracy)).
-
-## Code
-1. Create a folder Data in your directory where the notebook is located
-2. Download all the files of the kaggle forecasting competition ([Link](
-https://www.kaggle.com/c/m5-forecasting-accuracy)).
-3. Launch the notebook
-
-## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
 
